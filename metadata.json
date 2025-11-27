@@ -1,0 +1,5 @@
+{
+  "name": "MindPad AI",
+  "description": "A smart, minimalist note-taking application enhanced with Gemini AI for summarization, grammar checking, and content expansion.",
+  "requestFramePermissions": []
+}
